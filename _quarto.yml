@@ -3,16 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "louieneri"
+  title: "Louie Neri"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "About me"
+      - href: https://louieneri.github.io/nursingthenumbers/
+        text: "Nursing the numbers blog"
+    
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 

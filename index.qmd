@@ -1,11 +1,51 @@
 ---
-title: "louieneri"
+title: "Louie Neri"
+image: headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/louieneri_
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/louie-neri/
+    - icon: github
+      text: Github
+      href: https://github.com/louieneri
+    - text: My blog
+      href: https://louieneri.github.io/nursingthenumbers/
 ---
 
-This is a Quarto website.
+Hello there! I'm a nurse researcher with an interest in biostatistics, epidemiology, health economics, causal inference, nutrition, exercise science, and mental health.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I earned my BSN with a Research Distinction from UT Health San Antonio, where I researched the impact of nutrition and lifestyle on stroke, diabetes, and cognitive decline.
 
-```{r}
-1 + 1
-```
+Currently, I'm the Senior Coordinator for Evidence Based Surgery at The Society of Thoracic Surgeons, where I'm lucky enough to work with some outstanding surgeons to develop clinical practice guidelines. I'm also an incoming MSPH student in Outcomes Research at the University of Alabama at Birmingham. Previously, I was a Researcher and Team Lead at Examine.com, the largest online nutrition database.
+
+## Education
+
+**University of Alabama at Birmingham** \| Birmingham, AL (Remote)
+
+Masters of Science in Public Health (MSPH) \| August 2024 – December 2026 (Expected)
+
+**University of Texas Health Science Center at San Antonio** \| San Antonio, TX
+
+Bachelors of Science in Nursing with a Distinction in Research (BSN-RD) \| August 2020 – May 2022
+
+## Experience
+
+**Senior Coordinator, Evidence Based Surgery** \| The Society of Thoracic Surgeons \| September 2023 – Current
+
+**Research Team Lead** \| Examine.com \| December 2022 – September 2023
+
+**Researcher** \| Examine.com \| May 2021 – December 2022
+
+Undergraduate Researcher \| Audie Murphy VA Hospital/UT Health San Antonio \| October 2022 – May 2022
+
+## Some kind words from a close mentor:
+
+> “It is rare to find a human as inquisitive as Louie. He has the soul of a scientist, the heart of a physician, and the cleverness of a crow. His dedication to self-improvement through understanding the scientific principles of biochemistry and research methods is unparalleled. It was a true joy to have Louie in my courses as we constantly encourage mutual curiosity by debating the latest science. I am grateful to count him as a student and friend, and I am honored for him to be a professional colleague in the scientific community.”
+>
+> -   Deana Apple, PhD
