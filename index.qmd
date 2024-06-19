@@ -18,7 +18,7 @@ about:
       href: https://louieneri.github.io/nursingthenumbers/
 ---
 
-Hello there! I'm a nurse researcher with an interest in biostatistics, epidemiology, health economics, causal inference, nutrition, exercise science, and mental health.
+Hello there! I'm a nurse researcher with an interest in biostatistics, epidemiology, health economics, nutrition, exercise science, and mental health.
 
 I earned my BSN with a Research Distinction from UT Health San Antonio, where I researched the impact of nutrition and lifestyle on stroke, diabetes, and cognitive decline.
 
