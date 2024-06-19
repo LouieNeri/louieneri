@@ -14,7 +14,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/louieneri
-    - text: My blog
+    - text: Nursing the Numbers (My blog)
       href: https://louieneri.github.io/nursingthenumbers/
 ---
 

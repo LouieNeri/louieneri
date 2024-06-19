@@ -4,12 +4,7 @@ project:
 
 website:
   title: "Louie Neri"
-  navbar:
-    left:
-      - href: index.qmd
-        text: "About me"
-      - href: https://louieneri.github.io/nursingthenumbers/
-        text: "Nursing the numbers blog"
+  navbar: false
     
 
 format:
