@@ -14,8 +14,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/louieneri
-    - text: Nursing the Numbers (My blog)
-      href: https://louieneri.github.io/nursingthenumbers/
+    #- text: Nursing the Numbers (My blog)
+     # href: https://louieneri.github.io/nursingthenumbers/
     - text: Email | louie.neri@gmail.com
       href: mailto:louie.neri@gmail.com
 ---
