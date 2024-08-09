@@ -1,6 +1,10 @@
 /* css styles */
 
+/* Light mode styles */
+body:not(.quarto-dark) {
+  background-color: #F3EDE7 !important;
+}
+
 body {
-  background-color: #F3EDE7;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif !important;
 }
