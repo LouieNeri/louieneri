@@ -5,6 +5,7 @@ body:not(.quarto-dark) {
   background-color: #F3EDE7 !important;
 }
 
+/* fonts */
 body {
   font-family: "Times New Roman", Times, serif !important;
 }
